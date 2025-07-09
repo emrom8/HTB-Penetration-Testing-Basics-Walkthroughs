@@ -21,4 +21,4 @@ And looks like we found our flag, lets open it up:
 
 Great!
 
-! [Dancing1](Images/Dancing1.png)
+<img src=Images/Dancing7.png>
